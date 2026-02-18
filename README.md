@@ -1,6 +1,6 @@
 # Book CRUD Application
 
-ეს არის Spring Boot აპლიკაცია, რომელიც მუშაობს MySQL ბაზასთან და ასრულებს CRUD ოპერაციებს წიგნებზე.
+Spring Boot აპლიკაცია, რომელიც მუშაობს MySQL ბაზასთან და ასრულებს CRUD ოპერაციებს წიგნებზე.
 
 - Java
 - Spring Boot
