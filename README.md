@@ -5,7 +5,7 @@
 - Spring Data JPA
 - MySQL
 - Maven
-- Lombok
+
 
 - წიგნის დამატება
 - ყველა წიგნის წამოღება
